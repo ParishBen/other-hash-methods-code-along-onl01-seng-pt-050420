@@ -11,4 +11,5 @@ require 'pry'
 def get_the_min(groceries)
   #code your solution here!
   sam=groceries.values.flatten
+  sam
   end
